@@ -1,7 +1,8 @@
-# 目录
+# Table of contents
 
-- [卷一](./vol_1/chapter_1.md)
-  - [序分](./vol_1/chapter_1.md)
-  - [阿难遇摩登伽](./vol_1/chapter_2.md)
-  - [破计心在身内](./vol_1/chapter_3.md)
-  - [破计心在身外](./vol_1/chapter_4.md)
+* [README](README.md)
+* [卷一](vol\_1/chapter\_1.md)
+  *
+  * [阿难遇摩登伽](vol\_1/chapter\_2.md)
+  * [破计心在身内](vol\_1/chapter\_3.md)
+  * [破计心在身外](vol\_1/chapter\_4.md)
